@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-india-region-selector/static/css/main.6b35f3b2.chunk.css",
+    "main.js": "/react-india-region-selector/static/js/main.1a986f12.chunk.js",
+    "main.js.map": "/react-india-region-selector/static/js/main.1a986f12.chunk.js.map",
+    "runtime-main.js": "/react-india-region-selector/static/js/runtime-main.b2fcfe6c.js",
+    "runtime-main.js.map": "/react-india-region-selector/static/js/runtime-main.b2fcfe6c.js.map",
+    "static/js/2.85d27c00.chunk.js": "/react-india-region-selector/static/js/2.85d27c00.chunk.js",
+    "static/js/2.85d27c00.chunk.js.map": "/react-india-region-selector/static/js/2.85d27c00.chunk.js.map",
+    "index.html": "/react-india-region-selector/index.html",
+    "precache-manifest.e7c8325c660c59abf6e67a99bdb6b445.js": "/react-india-region-selector/precache-manifest.e7c8325c660c59abf6e67a99bdb6b445.js",
+    "service-worker.js": "/react-india-region-selector/service-worker.js",
+    "static/css/main.6b35f3b2.chunk.css.map": "/react-india-region-selector/static/css/main.6b35f3b2.chunk.css.map",
+    "static/js/2.85d27c00.chunk.js.LICENSE.txt": "/react-india-region-selector/static/js/2.85d27c00.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2fcfe6c.js",
+    "static/js/2.85d27c00.chunk.js",
+    "static/css/main.6b35f3b2.chunk.css",
+    "static/js/main.1a986f12.chunk.js"
+  ]
+}
